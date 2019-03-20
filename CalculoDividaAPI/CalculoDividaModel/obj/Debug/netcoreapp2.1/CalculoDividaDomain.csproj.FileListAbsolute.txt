@@ -1,0 +1,14 @@
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\bin\Debug\netcoreapp2.1\CalculoDividaDomain.deps.json
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\bin\Debug\netcoreapp2.1\CalculoDividaDomain.runtimeconfig.json
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\bin\Debug\netcoreapp2.1\CalculoDividaDomain.runtimeconfig.dev.json
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\bin\Debug\netcoreapp2.1\CalculoDividaDomain.dll
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\bin\Debug\netcoreapp2.1\CalculoDividaDomain.pdb
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\obj\Debug\netcoreapp2.1\CalculoDividaDomain.csprojAssemblyReference.cache
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\obj\Debug\netcoreapp2.1\CalculoDividaDomain.csproj.CoreCompileInputs.cache
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\obj\Debug\netcoreapp2.1\CalculoDividaDomain.RazorAssemblyInfo.cache
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\obj\Debug\netcoreapp2.1\CalculoDividaDomain.RazorAssemblyInfo.cs
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\obj\Debug\netcoreapp2.1\CalculoDividaDomain.AssemblyInfoInputs.cache
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\obj\Debug\netcoreapp2.1\CalculoDividaDomain.AssemblyInfo.cs
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\obj\Debug\netcoreapp2.1\CalculoDividaDomain.RazorTargetAssemblyInfo.cache
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\obj\Debug\netcoreapp2.1\CalculoDividaDomain.dll
+C:\Users\Neto\source\repos\CalculoDividaAPI\CalculoDividaModel\obj\Debug\netcoreapp2.1\CalculoDividaDomain.pdb

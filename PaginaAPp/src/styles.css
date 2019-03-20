@@ -1,0 +1,87 @@
+body{
+    background-color: #ffffff;
+}
+
+input.form-control, input.form-control:focus {
+  background-color: #c7c7c7;
+  color: black;
+  border-color: black;
+  border-radius: 0px;
+  border-width: 2px;
+}
+
+input.form-control:focus{
+    box-shadow: none;
+    border-bottom-color: black;
+}
+
+button[type=submit].btn{
+    border-radius: 15px;
+    background-color: #000;
+    color: #fff;
+}
+
+div.form-group label{
+    color: black;
+    font-weight: bold;
+}
+
+div.form-group.required>label:first-child:after{
+    content:'*';
+    color: #dc3545;
+	padding-left: 5px;
+}
+
+select.form-control {
+  background-color: #c7c7c7;
+  color: black;
+  border-color: black;
+  border-radius: 0px;
+  border-width: 2px;
+}
+
+  select.form-control:focus {
+    background-color: #c7c7c7;
+    color: black;
+    border-color: black;
+  }
+
+#toast-container > div {
+    opacity:1;
+}
+
+form{
+    margin: 0px 12px;
+}
+
+div.side-header{
+    border:2px solid black;
+}
+
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+  .tg td {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 10px 5px;
+    border-style: solid;
+    overflow: hidden;
+    word-break: normal;
+    background-color: #c7c7c7;
+    color: black;
+    border-color: black;
+    border-radius: 0px;
+    border-width: 2px;
+  }
+
+  .tg td label {
+    color: black;
+    font-weight: bold;
+  }
+
+.tg .tg-0lax {
+    text-align: left;
+    vertical-align: top
+  }

@@ -1,0 +1,35 @@
+<div class="row col-md-6">
+  <div class="col-md-6">
+    <div class="row" style="height: 550px;">
+      <div class="col-md-12 my-auto side-header">
+        <img src="/assets/img/calculadora.png" class="my-auto">
+        <h1>Calculo Divida</h1>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <form [formGroup]="service.formModel" autocomplete="off" (submit)="onSubmit()">
+      <div class="form-group required">
+        <label>Tipo de Juros</label>
+        <select value="{{TipoJuros}}">
+          <option value="simples">Simples</option>
+          <option value="composto">Composto</option>
+        </select>
+      </div>
+
+      <div class="form-group required">
+        <label>Resultado</label>
+        <input class="col-md-12" formControlName="Resultado" value='{{Resultado}}'>
+      </div>
+      <div class="form-group required">
+        <label>Parcelas</label>
+        <input class="col-md-12" formControlName="Parcelas" value="{{Parcelas}}">
+      </div>
+      <div class="form-row">
+        <div class="form-group col-md-8 offset-md-2">
+          <button type="submit" class="btn btn-lg btn-block">Calcular</button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

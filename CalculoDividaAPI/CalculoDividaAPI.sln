@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoDividaAPI", "CalculoDividaAPI\CalculoDividaAPI.csproj", "{844C8C36-EB37-483A-8E7B-8780EF9C9C74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoDividaModels", "CalculoDividaModel\CalculoDividaModels.csproj", "{E045C596-B615-49F0-B780-42116B48D22D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{211CBF66-8AB8-4AD6-9808-11C6CA0BBD72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoDividaData", "CalculoDividaData\CalculoDividaData.csproj", "{A0D1D0C1-0385-40C0-B8C0-F506E0C97954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844C8C36-EB37-483A-8E7B-8780EF9C9C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844C8C36-EB37-483A-8E7B-8780EF9C9C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844C8C36-EB37-483A-8E7B-8780EF9C9C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844C8C36-EB37-483A-8E7B-8780EF9C9C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E045C596-B615-49F0-B780-42116B48D22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E045C596-B615-49F0-B780-42116B48D22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E045C596-B615-49F0-B780-42116B48D22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E045C596-B615-49F0-B780-42116B48D22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D1D0C1-0385-40C0-B8C0-F506E0C97954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D1D0C1-0385-40C0-B8C0-F506E0C97954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D1D0C1-0385-40C0-B8C0-F506E0C97954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D1D0C1-0385-40C0-B8C0-F506E0C97954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{844C8C36-EB37-483A-8E7B-8780EF9C9C74} = {211CBF66-8AB8-4AD6-9808-11C6CA0BBD72}
+		{E045C596-B615-49F0-B780-42116B48D22D} = {211CBF66-8AB8-4AD6-9808-11C6CA0BBD72}
+		{A0D1D0C1-0385-40C0-B8C0-F506E0C97954} = {211CBF66-8AB8-4AD6-9808-11C6CA0BBD72}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02059D4C-5CC4-407E-B32B-F5BE6FF3AB52}
+	EndGlobalSection
+EndGlobal
